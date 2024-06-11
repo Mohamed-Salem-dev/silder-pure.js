@@ -1,0 +1,76 @@
+.item 
+{
+    cursor: pointer;
+}
+
+.item-caption
+{
+    text-align: center;
+    width: 80%;
+    left: 10%;
+    bottom: 30px;
+}
+.lightbox-container
+{
+
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.lightbox-item
+{
+    width: 50%;
+    height: 70vh;
+    /* images/project1/g01.jpeg */
+    background-image: url(../images/project1/g01.jpeg);
+    background-size: cover;
+    position: relative;
+}
+#close 
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.lightbox-item i 
+{
+    font-size: 22px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+/* ======================================================================== */
+/* // slider 2 */
+
+.imagesof img {
+    cursor: pointer;
+  }
+  
+  #section {
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+  }
+  
+  #div {
+    background-color: rgb(81, 255, 0);
+    width: 200px;
+    height: 200px;
+  }
+  
+  #button {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: aliceblue;
+  }
+  
+  .box-slider-img {
+    /* width: 50%; */
+    margin: auto;
+    text-align: center;
+  }
+  
+  #mainImage {
+    margin: 3rem auto;
+    width: 400px;
+  }
+  
